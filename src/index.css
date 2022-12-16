@@ -12,7 +12,7 @@
   height: 85%;
   margin: auto;
   max-width: var(--fixed-width);
-  background: yellow;
+  background: rgb(119, 241, 108);
   border-radius: 10%;
   box-shadow: black 5px 5px 5px ;
   text-align: center;
@@ -29,7 +29,7 @@ h1 {
 
 body {
   padding-top: 2rem;
-  background-color: red;
+  background-color: rgb(253, 179, 33);
 }
 
 .text {
