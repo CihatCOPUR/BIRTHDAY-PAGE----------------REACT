@@ -41,8 +41,10 @@ button {
   width: 100px;
   height: 30px;
   cursor: pointer;
+  font-size: large;
+  font-weight: 700;
 }
 button:hover{
-  background-color: blue;
+  background-color: rgb(100, 100, 250);
   color: white;
 }
