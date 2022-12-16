@@ -38,11 +38,13 @@ body {
 
 button {
   margin-bottom: 0.5rem;
-  width: 100px;
+  width: 150px;
   height: 30px;
   cursor: pointer;
   font-size: large;
   font-weight: 700;
+  padding: 0.2rem;
+  border-radius: 5px;
 }
 button:hover{
   background-color: rgb(100, 100, 250);
